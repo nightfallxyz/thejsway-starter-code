@@ -1,4 +1,5 @@
 /*
+Observe the following code
 Predict the displayed values
 */
 
