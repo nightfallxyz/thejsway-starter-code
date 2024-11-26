@@ -1,5 +1,5 @@
 /*
-Guess the final values of variables
+final values of variables
 */
 
 let a = 2;
